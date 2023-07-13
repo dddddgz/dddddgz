@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @dddddgz
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning PHP and Javascript
+- 💞️ I’m looking to collaborate on Python Projects
+- 📫 How to reach me:
+  - FishC Forum: https://fishc.com.cn/space-uid-1410382.html
+  - Note.MS: https://note.ms/gezhe123
