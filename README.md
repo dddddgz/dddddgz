@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dddddgz
-- 👀 I’m interested in Python
-- 🌱 I’m currently rickroll scam
-- 💞️ I’m looking to collaborate on rickroll scams
-- 📫 How to reach me:
+- 👀 I’m interested in Rickroll Scam
+- 🌱 I’m currently Web Rickroll Development
+- 💞️ I’m looking to collaborate on Rickroll Scams
+- 📫 How to ...:
   - You can visit https://uto.mn/ASBs1 to rickroll yourself.
