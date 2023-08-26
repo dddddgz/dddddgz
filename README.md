@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dddddgz
 - 👀 I’m interested in Rickroll Scam
-- 🌱 I’m currently Web Rickroll Development
+- 🌱 I’m currently doing homework 😭
 - 💞️ I’m looking to collaborate on Rickroll Scams
 - 📫 Wanna team up?
